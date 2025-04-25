@@ -106,7 +106,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"simpleStorage.sol": "mySimpleStorage"
+			"Add5.sol": "Add5"
 		},
 		"evmVersion": "cancun",
 		"libraries": {},
@@ -120,6 +120,14 @@
 		"remappings": []
 	},
 	"sources": {
+		"Add5.sol": {
+			"keccak256": "0xa9da1e4c486ba987efc78ed88b2d82b318e660f5ecd4fbb467ad294c7ad6f22f",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://937c77a84222c712979c3a99d1c5c2c2d7c61f7b4ac898ce522ac37861157412",
+				"dweb:/ipfs/Qmdx1wpFTToyfHtcSk3UVcA7KGojCX8424T12tPHtMFLcM"
+			]
+		},
 		"simpleStorage.sol": {
 			"keccak256": "0x331ac4a0c8deb6f7b12ec2dae156580079247fa61301241fc119619b7297988f",
 			"license": "MIT",
